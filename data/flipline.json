@@ -1,0 +1,174 @@
+[
+  {
+    "id": "papa-louie",
+    "title": "Papa Louie",
+    "description": "Junte-se ao Papa Louie em sua primeira aventura de plataforma, quando suas deliciosas pizzas se transformam em monstros e sequestram seus clientes!",
+    "url": "/games/papalouie.swf",
+    "thumb": "/images/papalouie.jpg",
+    "width": 800,
+    "height": 600,
+    "category": "flipline"
+  },
+  {
+    "id": "papa-louie",
+    "title": "Papa Louie 2",
+    "description": "Sarge e Radley Madish sequestraram todos os seus clientes nesta aguardada continuação de Papa Louie: When Pizzas Attack! Marty e Rita viajarão para a Terra de Munchmore para resgatar Papa Louie e encontrarão outros clientes presos ao longo do caminho para ajudar em sua jornada! Cada cliente que você resgatar se torna um novo personagem jogável, com armas únicas e uma variedade de habilidades especiais que podem ajudá-lo em sua jornada. Use as habilidades dos seus clientes para completar desafios em vários mundos e desbloqueie todos os 28 personagens jogáveis ​​em sua jornada para derrotar o selvagem Radley Madish!",
+    "url": "/games/papalouie2.swf",
+    "thumb": "/images/papalouie2.jpg",
+    "width": 800,
+    "height": 600,
+    "category": "flipline"
+  },
+  {
+    "id": "papa-louie",
+    "title": "Papa Louie 3",
+    "description": "Retorne à Terra de Munchmore nesta terceira parte da popular série de jogos de plataforma! Desta vez, você explorará o lado mais doce da Terra de Munchmore, mas não se deixe enganar pelos doces: lá fora é perigoso! Cabe à Capitã Cori resgatar Papa Louie e o restante dos clientes de Radley Madish, Luau LePunch e um exército infinito de Sundaesaurus viscosos. Cada cliente resgatado se torna um novo personagem jogável, então use suas armas e habilidades únicas para ajudar em sua jornada e impedir os planos nefastos do selvagem Radley Madish!",
+    "url": "/games/papalouie3.swf",
+    "thumb": "/images/papalouie3.jpg",
+    "width": 800,
+    "height": 600,
+    "category": "flipline"
+  },
+  {
+    "id": "papas-bakeria",
+    "title": "Papa's Bakeria",
+    "description": "Monte e asse tortas de dar água na boca na Padaria do Papa! Você é o responsável pela padaria no Whiskview Mall, onde criará novas tortas e cheesecakes para todos os seus clientes malucos. Conclua uma grande variedade de tarefas para ganhar dezenas de novos adesivos coloridos e use-os para desbloquear uma roupa nova para cada um dos seus clientes! Sirva os Especiais do Dia aos seus clientes para ganhar bônus e prêmios raros, além de desbloquear novos ingredientes e decorações para cada uma das 12 temporadas de festas.",
+    "url": "/games/papasbakeria.swf",
+    "thumb": "/images/papasbakeria.jpg",
+    "width": 800,
+    "height": 600,
+    "category": "flipline"
+  },
+  {
+    "id": "papas-burgeria",
+    "title": "Papa's Burgeria",
+    "description": "Nesta sequência do premiado jogo de sucesso 'Papa's Pizzeria', você volta à cozinha para administrar a nova hamburgueria do Papa Louie's! Você terá que anotar pedidos, grelhar hambúrgueres, adicionar ingredientes e servir os sanduíches aos clientes que aguardam.",
+    "url": "/games/papasburgeria.swf",
+    "thumb": "/images/papasburgeria.jpg",
+    "width": 800,
+    "height": 600,
+    "category": "flipline"
+  },
+    {
+      "id": "papas-cheeseria",
+      "title": "Papa's Cheeseria",
+      "description": "Monte deliciosos sanduíches de queijo grelhado e amontoe batatas fritas na Papa's Cheeseria! Os clientes podem escolher entre uma grande variedade de pães, queijos, coberturas e molhos para seus sanduíches, e você desbloqueará mais opções conforme joga! Crie sanduíches grelhados gourmet, asse-os na grelha e sirva-os com uma porção generosa de batatas fritas. Desbloqueie 40 novas Receitas Especiais exclusivas e escolha uma para servir como Especial do Dia todos os dias no restaurante, o que também lhe rende recompensas especiais!",
+      "url": "/games/papascheeseria.swf",
+      "thumb": "/images/papascheeseria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-cupcakeria",
+      "title": "Papa's Cupcakeria",
+      "description": "Asse os melhores cupcakes da cidade o ano todo na Papa's Cupcakeria! Você precisará escolher forminhas, adicionar a massa, ficar de olho no forno e decorar seus cupcakes com uma variedade de coberturas e coberturas. À medida que você sobe de nível e conquista novos clientes, notará as mudanças de estação na cidade de Frostfield, juntamente com novas celebrações festivas! Ajude seus clientes a entrar no espírito natalino com roupas e móveis sazonais e um novo conjunto de coberturas sazonais desbloqueáveis ​​para cada feriado. Explore cada temporada festiva para desbloquear mais de 100 ingredientes e se tornar um mestre na arte de cupcakes!",
+      "url": "/games/papascupcakeria.swf",
+      "thumb": "/images/papascupcakeria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-donuteria",
+      "title": "Papa's Donuteria",
+      "description": "Visite o novo restaurante do Papa no parque de diversões Powder Point, onde você servirá pilhas de donuts deliciosos! Escolha a massa e o formato corretos, frite os donuts, adicione cobertura e recheios e finalize com granulados e gotas antes de embalá-los para seus clientes favoritos. Desbloqueie novos formatos e ingredientes festivos enquanto joga ao longo do ano, aguardando a reabertura da montanha-russa Sky Ninja no verão!",
+      "url": "/games/papasdonuteria.swf",
+      "thumb": "/images/papasdonuteria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    
+    {
+      "id": "papas-freezeria",
+      "title": "Papa's Freezeria",
+      "description": "Você acabou de começar um trabalho fácil em uma sorveteria em uma ilha tropical tranquila, mas as coisas ficam agitadas quando todos os clientes fiéis do Papa Louie's chegam à ilha para passar férias! Nesta edição de verão da série de restaurantes do Papa Louie's, você precisará adicionar ingredientes, misturar caldas e sorvetes, adicionar coberturas e servir os exclusivos Sundaes da Freezeria aos seus clientes.",
+      "url": "/games/papasfreezeria.swf",
+      "thumb": "/images/papasfreezeria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-hotdoggeria",
+      "title": "Papa's Hotdoggeria",
+      "description": "Grelhe e sirva cachorros-quentes e outros petiscos típicos do estádio na Papa's Hot Doggeria! Você tem o melhor lugar da casa no Griller Stadium, que por acaso fica atrás do balcão da barraca de cachorro-quente. Você precisará grelhar cachorros-quentes e salsichas, adicionar ingredientes e condimentos, servir bebidas e estourar pipoca para todos os torcedores no jogo!",
+      "url": "/games/papashotdoggeria.swf",
+      "thumb": "/images/papashotdoggeria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-pancakeria",
+      "title": "Papa's Pancakeria",
+      "description": "Ajude Prudence e Cooper a administrar a Panquecaria do Papa! Você precisará cozinhar e empilhar panquecas, rabanadas e waffles no mais novo jogo de gerenciamento de tempo do Papa. A jogabilidade prática da série retorna, com novos desafios relacionados a empilhar, organizar coberturas e despejar calda. Nesta nova edição, o grande Foodini chegará após cada dia com seu Mini Game Show itinerante! Foodini aceita apenas ingressos especiais que são ganhos ao longo do dia e tem sete jogos diferentes para você jogar. Cada ingresso dá a você a chance de jogar seu jogo diário para ganhar muitos prêmios exclusivos. Outra novidade da série é uma Estação de Bebidas desbloqueável que aumenta o desafio crescente da multitarefa.",
+      "url": "/games/papaspancakeria.swf",
+      "thumb": "/images/papaspancakeria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-pastaria",
+      "title": "Papa's Pastaria",
+      "description": "Vá para Portallini e comece sua carreira como chef de massas! Você é o responsável pela Papa's Pastaria, onde receberá pedidos, preparará macarrão, adicionará molhos e coberturas e tostará pães para criar o prato de massa perfeito para seus clientes! Na nova série, você abrirá o Salão de Jantar do seu restaurante e contratará um garçom para te ajudar a enfrentar o dia agitado de trabalho! À medida que você sobe de nível, ganhará novos ingredientes, conhecerá novos clientes e trabalhará nas estações em constante mudança da cidade.",
+      "url": "/games/papaspastaria.swf",
+      "thumb": "/images/papaspastaria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-pizzeria",
+      "title": "Papa's Pizzeria",
+      "description": "Ajude o Roy a administrar a pizzaria enquanto o Papa Louie estiver fora! Prepare, asse e sirva pizzas para ganhar gorjetas e desbloquear novos clientes.🍕",
+      "url": "/games/papaspizzeria.swf",
+      "thumb": "/images/papaspizzeria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-scooperia",
+      "title": "Papa's Scooperia",
+      "description": "Sirva deliciosos sundaes de biscoitos e sorvete na Scooperia do Papa! Sua viagem turística à cidade grande é interrompida quando você perde todo o seu dinheiro e pertences. Preso em Oniontown sem dinheiro para voltar para casa, o Papa Louie tem uma solução única para o seu problema: ficar e administrar sua novíssima sorveteria!",
+      "url": "/games/papasscooperia.swf",
+      "thumb": "/images/papasscooperia.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-sushiria",
+      "title": "Papa's Sushiria",
+      "description": "Fatie e sirva o sushi mais delicioso da região na Papa's Sushiria! Você começou um trabalho no novo restaurante do Papa's em Sakura Bay, onde criará uma variedade de rolinhos de sushi e chá de bolhas para todos os seus clientes malucos. Desbloqueie e use mais de 140 ingredientes para todos os tipos de combinações deliciosas em 12 temporadas diferentes. O novo sistema de roupas permite que você seja criativo com os trajes de fim de ano dos seus funcionários, onde você pode misturar e combinar cores e estilos para aumentar o seu espírito natalino e ganhar mais gorjetas dos seus clientes.",
+      "url": "/games/papassushiria.swf",
+      "thumb": "/images/papassushiria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-tacomia",
+      "title": "Papa's Taco Mia",
+      "description": "O Papa Louie está se expandindo com um novo restaurante de tacos, e ele está colocando você no comando! Ajude o Mitch e a Maggie a anotar pedidos, cozinhar carnes e montar tacos no Papa's Taco Mia! Desbloqueie mais de uma dúzia de ingredientes e molhos conforme você sobe de cargo e cria o taco perfeito para novos e antigos clientes. Compre uma variedade de melhorias para sua loja de tacos usando suas gorjetas suadas e seu salário semanal, e aceite o desafio extra de atender os exigentes e exigentes clientes 'Closer' no final de cada dia. E se você impressionar o novo Crítico Gastronómico, ganhará um prêmio Fita Azul que lhe dá gorjetas mais altas! Você também pode ganhar até 60 Emblemas enquanto administra o Papa's Taco Mia, desbloqueados por uma variedade de conquistas, incluindo usar certos ingredientes, obter altas pontuações em cada Estação, atender certos clientes e muito mais!",
+      "url": "/games/papastacomia.swf",
+      "thumb": "/images/papastacomia.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    },
+    {
+      "id": "papas-wingeria",
+      "title": "Papa's Wingeria",
+      "description": "Você é o responsável pela Papa's Wingeria, onde precisará anotar pedidos, fritar asas e outros itens nas fritadeiras, temperá-las com os molhos premiados do Papa's e organizá-las perfeitamente com guarnições e acompanhamentos para seus clientes fiéis. Uma novidade na série são os Custom Workers, onde você pode criar seu próprio personagem no jogo e personalizar seu visual com infinitas possibilidades. Mude o penteado, o tom de pele, as características faciais, a postura, os acessórios e muito mais! Você também receberá dezenas de acessórios e peças de roupa para seu custom worker, na Loja e em Minijogos.",
+      "url": "/games/papaswingeria.swf",
+      "thumb": "/images/papaswingeria.jpg",
+      "width": 800,
+      "height": 600,
+      "category": "flipline"
+    }
+]
+  

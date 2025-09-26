@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogar - PixelHive</title>
+  <link rel="stylesheet" href="/CSS/styles.css">
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+</head>
+<body>
+  <header>
+    <a href="/index.html">⬅ Voltar ao Catálogo</a>
+  </header>
+
+  <main style="display:flex; justify-content:center; align-items:center; height:100vh; flex-direction:column;">
+    <h1 id="game-title"></h1>
+    <p id="game-description"></p>
+  
+    <div id="game-container" style="width:800px; height:600px; position:relative;"></div>
+  </main>
+  
+  <script>
+    function carregarJogo() {
+      const saved = localStorage.getItem("jogoSelecionado");
+      if (!saved) {
+        document.body.innerHTML = "<p>Jogo não encontrado.</p>";
+        return;
+      }
+
+      const jogo = JSON.parse(saved);
+
+      document.getElementById("game-title").textContent = jogo.title;
+      document.getElementById("game-description").textContent = jogo.description;
+
+      const container = document.getElementById("game-container");
+      container.innerHTML = ""; // limpiar contenedor
+
+      if (jogo.url.endsWith(".swf")) {
+        // ✅ Caso Flipline (SWF → usar Ruffle)
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        container.appendChild(player);
+        player.style.width = "100%";
+        player.style.height = "100%";
+        player.load(jogo.url);
+      } else {
+        // ✅ Caso GameMonetize (HTML5 → usar iframe)
+        const iframe = document.createElement("iframe");
+        iframe.src = jogo.url;
+        iframe.style.width = "100%";
+        iframe.style.height = "100%";
+        iframe.style.border = "none";
+        container.appendChild(iframe);
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", carregarJogo);
+  </script>
+</body>
+</html>
